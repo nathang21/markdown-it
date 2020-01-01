@@ -36,7 +36,7 @@
     "ansi": "~0.3.0",
     "autolinker": "^0.18.1",
     "autoprefixer-stylus": "~0.8.1",
-    "benchmark": "~1.0.0",
+    "benchmark": "~2.1.4",
     "browserify": "*",
     "chai": "^3.4.1",
     "commonmark": "~0.23.0",
