@@ -41,7 +41,7 @@
     "chai": "^3.4.1",
     "commonmark": "~0.23.0",
     "coveralls": "~2.11.6",
-    "eslint": "0.24.0",
+    "eslint": "2.1.0",
     "eslint-plugin-nodeca": "^1.0.0",
     "highlight.js": "^9.1.0",
     "istanbul": "*",
