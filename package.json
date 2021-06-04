@@ -43,7 +43,7 @@
     "coveralls": "~2.11.6",
     "eslint": "0.24.0",
     "eslint-plugin-nodeca": "^1.0.0",
-    "highlight.js": "^9.1.0",
+    "highlight.js": "^11.0.1",
     "istanbul": "*",
     "jade": "~1.11.0",
     "markdown-it-abbr": "^1.0.2",
